@@ -1,0 +1,15 @@
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programs\Ecommerce\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Programs\Ecommerce\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Programs\Ecommerce\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Programs\Ecommerce\Infrastructure\bin\Debug\net7.0\core.dll
+D:\Programs\Ecommerce\Infrastructure\bin\Debug\net7.0\core.pdb
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Programs\Ecommerce\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
