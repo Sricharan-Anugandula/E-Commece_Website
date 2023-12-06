@@ -143,4 +143,14 @@
     "ProductTypeId": 3,
     "ProductBrandId": 1
   }
+
+  ,
+  {
+    "Name": "Sriji pen tablet blue",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductTypeId":5 ,
+    "ProductBrandId": 7
+  }
 ]
